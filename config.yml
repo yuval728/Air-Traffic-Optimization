@@ -1,0 +1,13 @@
+
+mlflow:
+    tracking_uri: "http://localhost:5000"
+    experiment_name: "air_traffic"
+
+weather_data: "data/M1_final.csv"
+service_data: "data/MLMachineFiles.csv"
+
+weather_xgb_params:
+    random_state: 42
+
+service_xgb_params:
+    random_state: 42

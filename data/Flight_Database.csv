@@ -1,0 +1,11 @@
+FlightID,DEP_City,ARR_City,Fuel_Cap,Pass_Load,Dep_Time,Days_Since_Serving,Warranty_Status,Days_Since_Purchase,Model
+AI-266,Mumbai,Chennai,6956,221,11:26,298,FALSE,758,Airbus A319
+AI-861,Kolkata,Nagpur,6240,238,12:03,245,TRUE,840,Airbus A320
+AI-234,Lucknow,Kolkata,4111,246,20:09,178,FALSE,640,Boeing 777
+AI-867,Chandigarh,Mumbai,6172,145,16:19,274,TRUE,971,Boeing 787
+AI-338,Indore,Kolkata,6505,232,7:53,604,FALSE,648,Airbus A319
+AI-595,Jaipur,Kolkata,4630,135,20:51,315,TRUE,485,Airbus A320
+AI-803,Indore,Lucknow,4160,158,16:27,397,TRUE,375,Airbus A320
+AI-636,Kanpur,Ahmedabad,3499,170,15:10,595,TRUE,975,Airbus A319
+AI-191,Kanpur,Nagpur,3020,153,19:11,161,FALSE,607,Boeing 787
+AI-977,Hyderabad,Pune,4061,121,20:47,435,TRUE,395,Boeing 787
