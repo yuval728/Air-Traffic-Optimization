@@ -4,7 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
-pickle
 streamlit
 networkx
 csv
