@@ -78,7 +78,7 @@ def plot_graph(G, primary_path, alternate_path, dep_city, arr_city, streamlit=Fa
     plt.title(f"Flight Path from {dep_city} to {arr_city}", fontsize=16)
     plt.legend()
     plt.axis('off')
-    plt.show()
+    # plt.show()
     
     if streamlit:
         st.pyplot(fig)
